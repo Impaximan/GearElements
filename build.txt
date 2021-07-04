@@ -1,0 +1,3 @@
+displayName = Penumbral's Elemental Modifiers
+author = Penumbral
+version = 0.1
