@@ -4,5 +4,6 @@ namespace GearElements
 {
 	public class GearElements : Mod
 	{
+		public const int elementalEffectAmount = 4;
 	}
 }
